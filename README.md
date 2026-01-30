@@ -29,8 +29,8 @@ Total Reports: The total number of employees beneath you in the reporting hierar
 
 ## Files Included
 - OrgChartData.xlsx / .csv (employee-manager dataset)  
-- OrgChartAnalysis.pbix / .sql / .ipynb (analysis file)  
-- Screenshots/ (visuals or output tables)
+- .sql  
+- Screenshots
 
 
 ## Notes
